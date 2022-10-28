@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SIEM Lab Setup](README.md)
+* [Lab's Purpose](README.md)
