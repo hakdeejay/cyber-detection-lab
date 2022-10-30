@@ -26,7 +26,7 @@ Q. n
 For OPT2 interface.
 
 Q. Enter the number of the interface you wish to configure. A. 4\
-Q. Enter the new OPT1 IPv4. A. 192.168.2.1\
+Q. Enter the new OPT1 IPv4. A. 192.168.3.1\
 Q. Enter the OPT1 IPv4 subnet bit count. A. 24\
 Q. Hit Enter\
 Q. Hit Enter\
